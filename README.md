@@ -1,0 +1,1 @@
+This file that I created is displayed on the desktop and looks bad on the mobile phone.  For this, you must use the dcoder program and remove the background, move the buttons and delete the Persian text.
