@@ -1,23 +1,26 @@
-This file that I created is displayed on the desktop and looks bad on the mobile phone.  For this, you must use the dcoder program and remove the background, move the buttons and delete the Persian text .Instead of a question like do you love me?  You can also add funny questions😁😏
+This file that I created is displayed on the desktop and looks bad on the mobile phone.  For this, you must use the dcoder program and remove the background, move the buttons and delete the Persian text .Instead of a question like do you love me?  You can also add funny questions😁😏 this is all code for mobile , just copy it and make love.html 
+
+
+
 <!doctype html>
 
 <html lang="en">
 
 <head>
 
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>دوستم دالی؟</title>
+<title> do you love me ? </title>
 
-    <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css">
 
-    <style>
+<style>
 
         h1 {
 
-            font-size: 30px; /* Adjust the font size as needed */
+         font-size: 30px; /* Adjust  the font size as needed */
 
         }
 
